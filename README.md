@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/THIRSTLEARNER/THIRSTLEARNER/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/THIRSTLEARNER/THIRSTLEARNER/snake" alt="Snake animation" />
 
 ###
