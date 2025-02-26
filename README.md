@@ -42,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/THIRSTLEARNER/thirstlearner/blob/main/snake" alt="Snake animation" />
 
 ###
